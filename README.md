@@ -1,6 +1,5 @@
 Flash Card APP
-
-## Lab 1
+## Lab 2
 
 ### App Description
 Flashcard app that can display a question, and on tap display the answer to the question. 
@@ -8,7 +7,7 @@ Flashcard app that can display a question, and on tap display the answer to the 
 
 ### App Walk-though
 
-<img src="https://media.giphy.com/media/QvAa7yyUX5mIYSWMhH/giphy.gif"><br>
+<img src="https://media.giphy.com/media/QZQ7CGGZhgTsobK2U0/giphy.gif"><br>
 
 
 
@@ -22,3 +21,4 @@ Flashcard app that can display a question, and on tap display the answer to the 
 - [ ] Toggle the flashcard between the question side and the answer side
 - [ ] Style the question and answer side of the card to better distinguish between the two sides
 - [ ] Add selectable multiple choice answers beneath the card
+
