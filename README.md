@@ -1,24 +1,17 @@
-Flash Card APP
-## Lab 2
+## Lab 3
 
 ### App Description
-Flashcard app that can display a question, and on tap display the answer to the question. 
-
+Flash card App that help us to add and save flashcards
 
 ### App Walk-though
-
-<img src="https://media.giphy.com/media/QZQ7CGGZhgTsobK2U0/giphy.gif"><br>
-
+<https://media.giphy.com/media/eNA8uQLut3ZQXKJQ16/giphy.gif>
 
 
 ## Required
-- [x] Create New Project in Xcode
-- [x] Add a view for the front side of the flashcard to display the question
-- [x] Add a view for the back side of the flashcard to display the answer
-- [x] Build in logic to show the answer side when the card is tapped
-- [x] Push code to GitHub
+- [X] User can browse through multiple flashcards
+- [X] User can re-open the app and see previously created flashcards
+- [X] Push code to GitHub
 ## Optional
-- [ ] Toggle the flashcard between the question side and the answer side
-- [ ] Style the question and answer side of the card to better distinguish between the two sides
-- [ ] Add selectable multiple choice answers beneath the card
-
+- [ ] User can delete a flashcard
+- [ ] User can edit existing flashcard
+- [ ] User can store multiple choice questions
